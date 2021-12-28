@@ -1,0 +1,70 @@
+{
+    "AD": {
+        "name": "Andorra",
+        "native": "Andorra",
+        "phone": "376",
+        "continent": "EU",
+        "capital": "Andorra la Vella",
+        "currency": "EUR",
+        "languages": [
+            "ca"
+        ]
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "native": "دولة الإمارات العربية المتحدة",
+        "phone": "971",
+        "continent": "AS",
+        "capital": "Abu Dhabi",
+        "currency": "AED",
+        "languages": [
+            "ar"
+        ]
+    },
+    "AF": {
+        "name": "Afghanistan",
+        "native": "افغانستان",
+        "phone": "93",
+        "continent": "AS",
+        "capital": "Kabul",
+        "currency": "AFN",
+        "languages": [
+            "ps",
+            "uz",
+            "tk"
+        ]
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "native": "Antigua and Barbuda",
+        "phone": "1268",
+        "continent": "NA",
+        "capital": "Saint John's",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "AI": {
+        "name": "Anguilla",
+        "native": "Anguilla",
+        "phone": "1264",
+        "continent": "NA",
+        "capital": "The Valley",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "JP": {
+        "name": "Japan",
+        "native": "日本",
+        "phone": "81",
+        "continent": "AS",
+        "capital": "Tokyo",
+        "currency": "JPY",
+        "languages": [
+            "ja"
+        ]
+    }
+}
